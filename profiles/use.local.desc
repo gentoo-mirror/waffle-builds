@@ -2,6 +2,13 @@
 # Please add your descriptions to your package's metadata.xml ONLY.
 # * generated automatically using pmaint *
 
+games-emulation/citra:clang - Use sys-devel/clang to compile citra
+games-emulation/citra:discord - Enable Discord integration
+games-emulation/citra:i18n - Enable UI translations (Qt5 interface only)
+games-emulation/citra:qt5 - Enable the Qt5 based interface
+games-emulation/citra:sdl2 - Enable the SDL2 based interface
+games-emulation/citra:system-boost - Use the system-wide version of dev-libs/boost
+games-emulation/citra:telemetry - Allow transmitting anonymous usage data to the Citra developers
 games-emulation/desmume:glade - Build Gnome-Glade frontend (currently not working)
 games-emulation/desmume:hud - Enable Heads Up Display
 games-emulation/desmume:openal - Enable experimental microphone support
