@@ -22,6 +22,7 @@ net-vpn/mullvad-vpn 2020.5: The Mullvad VPN client
 net-vpn/protonvpn-cli 2.2.4 2.2.6: A VPN command-line tool from protonvpn - python rewrite
 net-vpn/protonvpn-gui 2.0.7 2.1.1: GUI wrapper for their command-line tool from ProtonVPN
 sys-apps/logiops 0.2.2 9999: Unofficial driver for Logitech mice and keyboards - live version
+sys-apps/touchegg 2.0.5 9999: Linux multi-touch gesture recognizer
 sys-auth/fprintd 1.90.8 9999: D-Bus service to access fingerprint readers
 sys-auth/libfprint 1.90.6 9999: library to add support for consumer fingerprint readers
 sys-boot/plymouth 9999: Graphical boot animation (splash) and logger
