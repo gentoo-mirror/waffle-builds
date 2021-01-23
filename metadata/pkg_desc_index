@@ -12,7 +12,7 @@ games-emulation/melonds 0.9 9999: NintendoDS emulator, sorta. Also 1st quality m
 kde-misc/applet-window-buttons 9999: Plasma 5 applet in order to show window buttons in your panels
 kde-misc/lightly 9999: Lightly is a fork of breeze theme style that aims to be visually modern and minimalistic.
 kde-misc/sierrabreezeenhanced 9999: A fork of BreezeEnhanced to make it (arguably) more minimalistic and informative
-mail-mta/protonmail-bridge-bin 1.5.4 1.5.6: Serves ProtonMail to IMAP/SMTP clients
+mail-mta/protonmail-bridge-bin 1.5.4 1.5.6 1.5.7: Serves ProtonMail to IMAP/SMTP clients
 media-fonts/meslo-nerd 9999: Customized version of Apple's Menlo font, patched by romkatv
 media-fonts/nerd-fonts 2.1.0: Collection of fonts that are patched to include a high number of glyphs (icons).
 media-gfx/blender 2.90.1: 3D Creation/Animation/Publishing System
