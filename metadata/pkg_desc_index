@@ -17,7 +17,7 @@ media-fonts/meslo-nerd 9999: Customized version of Apple's Menlo font, patched b
 media-fonts/nerd-fonts 2.1.0: Collection of fonts that are patched to include a high number of glyphs (icons).
 media-gfx/blender 2.90.1: 3D Creation/Animation/Publishing System
 media-gfx/blender-bin 2.90.1 2.91.0: 3D Creation/Animation/Publishing System
-net-firewall/firewalld 0.8.3 0.9.0 0.9.1: A firewall daemon with D-BUS interface providing a dynamic firewall
+net-firewall/firewalld 0.9.0 0.9.1 0.9.3: A firewall daemon with D-BUS interface providing a dynamic firewall
 net-vpn/mullvad-vpn 2020.5: The Mullvad VPN client
 net-vpn/protonvpn-cli 2.2.4 2.2.6: A VPN command-line tool from protonvpn - python rewrite
 net-vpn/protonvpn-gui 2.0.7 2.1.1: GUI wrapper for their command-line tool from ProtonVPN
