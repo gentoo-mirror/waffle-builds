@@ -63,6 +63,8 @@ media-fonts/nerd-fonts:tinos - Install Nerd-fonts-patched Tinos fonts
 media-fonts/nerd-fonts:ubuntu - Install Nerd-fonts-patched Ubuntu fonts
 media-fonts/nerd-fonts:ubuntumono - Install Nerd-fonts-patched Ubuntu Mono fonts
 media-fonts/nerd-fonts:victormono - Install Nerd-fonts-patched Victor Mono fonts
+net-im/qtox:auto-away - Add support to set the state depending on desktop activity
+net-im/qtox:notification - Adds support for GTK Status Notifier tray backends
 sys-boot/plymouth:gdm - Enables smooth transition to GDM
 sys-boot/plymouth:libkms - Provides abstraction to the DRM drivers (intel, nouveau and vmwgfx at this moment)
 sys-boot/plymouth:pango - Adds support for printing text on splash screen and text prompts, e.g. for password
