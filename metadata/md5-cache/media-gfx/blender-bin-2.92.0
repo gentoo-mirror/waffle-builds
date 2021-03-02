@@ -1,0 +1,11 @@
+DEFINED_PHASES=install postinst postrm prepare
+DESCRIPTION=3D Creation/Animation/Publishing System
+EAPI=7
+HOMEPAGE=http://www.blender.org/
+KEYWORDS=~amd64 ~x86
+LICENSE=|| ( GPL-2 BL )
+RESTRICT=bindist mirror strip
+SLOT=2.92
+SRC_URI=https://builder.blender.org/download/blender-2.92.0-linux64.tar.xz -> blender-bin-2.92.0.tar.xz
+_eclasses_=desktop	c0d27bf73aa08ca05b663dbd31fbef28	xdg-utils	ff2ff954e6b17929574eee4efc5152ba
+_md5_=23a3ca12a4a253448cc6d82d336ce0b8
