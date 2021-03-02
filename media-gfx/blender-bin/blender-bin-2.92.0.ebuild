@@ -17,6 +17,8 @@ RESTRICT="bindist
 	mirror
 	strip"
 
+DEPEND="sys-libs/ncurses-compat"
+
 QA_PREBUILT="*"
 
 S="${WORKDIR}/blender-${PV}-linux64"
@@ -29,15 +31,7 @@ src_prepare() {
 
 src_install() {
 	dodir /opt/blender
-
 	cp -pPR ${S}/* ${D}/opt/blender || die "Failed to copy files"
-	# insinto /opt/blender/
-	# doins -r ${S}/*
-
-	# exeinto /opt/blender
-	# doexe ${S}/blender
-	# doexe ${S}/blender-softwaregl
-	# doexe ${S}/blender-thumbnailer.py
 
 	domenu ${S}/blender-bin.desktop
 	newicon -s scalable ${S}/blender.svg blender
