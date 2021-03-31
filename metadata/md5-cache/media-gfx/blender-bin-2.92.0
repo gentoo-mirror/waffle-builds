@@ -3,6 +3,7 @@ DEPEND=sys-libs/ncurses-compat
 DESCRIPTION=3D Creation/Animation/Publishing System
 EAPI=7
 HOMEPAGE=http://www.blender.org/
+INHERIT=desktop xdg-utils
 KEYWORDS=~amd64 ~x86
 LICENSE=|| ( GPL-2 BL )
 RESTRICT=bindist mirror strip
