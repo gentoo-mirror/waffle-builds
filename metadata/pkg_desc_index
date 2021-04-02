@@ -5,7 +5,7 @@ app-shells/zsh-history-substring-search 1.0.2: ZSH port of Fish history search (
 app-shells/zsh-syntax-highlighting 0.8.0_alpha1 9999: Fish shell-like syntax highlighting for zsh
 dev-lang/ispc 1.14.1 9999: Intel SPMD Program Compiler
 dev-python/configparser 5.0.0: Backport of Python-3 built-in configparser
-dev-util/rust-analyzer 20200921 20201005 99999999: An experimental Rust compiler front-end for IDEs
+dev-util/rust-analyzer 99999999: An experimental Rust compiler front-end for IDEs
 games-emulation/citra 9999: Nintendo 3DS Emulator
 games-emulation/desmume 9999: Nintendo DS emulator
 games-emulation/melonds 0.9 9999: NintendoDS emulator, sorta. Also 1st quality melon.
