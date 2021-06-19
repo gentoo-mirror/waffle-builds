@@ -8,5 +8,5 @@ LICENSE=BSD
 PROPERTIES=live
 RDEPEND=>=app-shells/zsh-4.3.11
 SLOT=0
-_eclasses_=readme.gentoo-r1	22ae82e140bdd95d17a34fd5fd733190	git-r3	b8e8c92aa5fe8df7187e466138eb4e52
+_eclasses_=readme.gentoo-r1	e51390d48521eb3d400db57d557b7530	git-r3	b8e8c92aa5fe8df7187e466138eb4e52
 _md5_=68c77e39d7ad43a4129ae7e9f3f8a737
