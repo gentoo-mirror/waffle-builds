@@ -5,6 +5,7 @@ app-shells/zsh-history-substring-search 1.0.2: ZSH port of Fish history search (
 app-shells/zsh-syntax-highlighting 0.8.0_alpha1 9999: Fish shell-like syntax highlighting for zsh
 dev-lang/ispc 1.14.1 9999: Intel SPMD Program Compiler
 dev-python/configparser 5.0.0: Backport of Python-3 built-in configparser
+dev-python/proton-client 0.5.1: Proton account login backend
 dev-util/rust-analyzer 99999999: An experimental Rust compiler front-end for IDEs
 games-emulation/citra 9999: Nintendo 3DS Emulator
 games-emulation/desmume 9999: Nintendo DS emulator
@@ -21,8 +22,9 @@ net-firewall/firewalld 0.9.0 0.9.1 0.9.3: A firewall daemon with D-BUS interface
 net-im/qtox 1.17.3 9999: Most feature-rich GUI for net-libs/tox using Qt5
 net-misc/nextcloud-client 3.2.2: Desktop Syncing Client for Nextcloud
 net-vpn/mullvad-vpn 2020.5: The Mullvad VPN client
-net-vpn/protonvpn-cli 2.2.6: A VPN command-line tool from protonvpn - python rewrite
-net-vpn/protonvpn-gui 2.0.7 2.1.1: GUI wrapper for their command-line tool from ProtonVPN
+net-vpn/protonvpn-cli 3.7.1: Official ProtonVPN Linux app (CLI)
+net-vpn/protonvpn-gui 1.0.1: Official ProtonVPN Linux app
+net-vpn/protonvpn-nm-lib 3.3.1: ProtonVPN NetworkManager library
 sys-apps/logiops 0.2.3 9999: An unofficial userspace driver for HID++ Logitech devices
 sys-apps/touchegg 2.0.5 2.0.8 2.0.10 9999: Linux multi-touch gesture recognizer
 sys-auth/fprintd 1.90.9 9999: D-Bus service to access fingerprint readers
