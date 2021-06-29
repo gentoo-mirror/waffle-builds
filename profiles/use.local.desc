@@ -9,10 +9,13 @@ games-emulation/citra:qt5 - Enable the Qt5 based interface
 games-emulation/citra:sdl2 - Enable the SDL2 based interface
 games-emulation/citra:system-boost - Use the system-wide version of dev-libs/boost
 games-emulation/citra:telemetry - Allow transmitting anonymous usage data to the Citra developers
-games-emulation/desmume:glade - Build Gnome-Glade frontend (currently not working)
+games-emulation/desmume:cli - Enable cli frontend
+games-emulation/desmume:gdb - Enable gdb stub
+games-emulation/desmume:gui - Enable GTK frontend
 games-emulation/desmume:hud - Enable Heads Up Display
 games-emulation/desmume:openal - Enable experimental microphone support
 games-emulation/desmume:soundtouch - Use Soundtouch for audio processing
+games-emulation/desmume:wifi - Enable experimental wifi support
 media-fonts/nerd-fonts:3270 - Install Nerd-fonts-patched 3270 fonts
 media-fonts/nerd-fonts:agave - Install Nerd-fonts-patched Agave fonts
 media-fonts/nerd-fonts:anonymouspro - Install Nerd-fonts-patched Anonymous Pro fonts
