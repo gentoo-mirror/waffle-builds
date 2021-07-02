@@ -9,5 +9,5 @@ LICENSE=|| ( GPL-2 BL )
 RESTRICT=bindist mirror strip
 SLOT=2.92
 SRC_URI=https://builder.blender.org/download/blender-2.92.0-linux64.tar.xz -> blender-bin-2.92.0.tar.xz
-_eclasses_=desktop	c0d27bf73aa08ca05b663dbd31fbef28	xdg-utils	ff2ff954e6b17929574eee4efc5152ba
+_eclasses_=desktop	c0d27bf73aa08ca05b663dbd31fbef28	xdg-utils	27f9a2f19502b925ac117bd657aa2979
 _md5_=346d1dfa727c90aceb8648c928a17ade
