@@ -21,7 +21,7 @@ media-gfx/blender 2.92.0 9999: Blender is a free and open-source 3D creation sui
 media-gfx/blender-bin 2.92.0 2.93.1: 3D Creation/Animation/Publishing System
 net-firewall/firewalld 0.9.0 0.9.1 0.9.3: A firewall daemon with D-BUS interface providing a dynamic firewall
 net-im/qtox 1.17.3 9999: Most feature-rich GUI for net-libs/tox using Qt5
-net-misc/nextcloud-client 3.2.2: Desktop Syncing Client for Nextcloud
+net-misc/nextcloud-client 3.2.2 3.2.3: Desktop Syncing Client for Nextcloud
 net-vpn/mullvad-vpn 2020.5: The Mullvad VPN client
 net-vpn/protonvpn-cli 3.7.1: Official ProtonVPN Linux app (CLI)
 net-vpn/protonvpn-gui 1.0.1: Official ProtonVPN Linux app
