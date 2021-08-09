@@ -1,0 +1,13 @@
+BDEPEND=>=dev-vcs/git-1.8.2.1[curl]
+DEFINED_PHASES=install postinst unpack
+DESCRIPTION=ZSH port of Fish history search (up arrow)
+EAPI=7
+HOMEPAGE=https://github.com/zsh-users/zsh-history-substring-search
+INHERIT=readme.gentoo-r1 git-r3
+LICENSE=BSD
+PROPERTIES=live
+RDEPEND=>=app-shells/zsh-4.3.0
+RESTRICT=primaryuri
+SLOT=0
+_eclasses_=readme.gentoo-r1	e51390d48521eb3d400db57d557b7530	git-r3	cc875b0c1e9b3bdac1af0f82f3ba29da
+_md5_=f7563afe0aecce061962c7d8c7147afc
