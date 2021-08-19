@@ -8,5 +8,5 @@ LICENSE=MIT
 PROPERTIES=live
 RDEPEND=>=app-shells/zsh-4.3.11
 SLOT=0
-_eclasses_=readme.gentoo-r1	e51390d48521eb3d400db57d557b7530	git-r3	cc875b0c1e9b3bdac1af0f82f3ba29da
+_eclasses_=readme.gentoo-r1	c9646d622541c023f5159b86a14e930c	git-r3	cc875b0c1e9b3bdac1af0f82f3ba29da
 _md5_=0bc320d9873722da742c7fc5875710a0
