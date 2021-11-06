@@ -1,4 +1,4 @@
-DEFINED_PHASES=install postinst
+DEFINED_PHASES=install postinst prepare
 DESCRIPTION=Fish shell-like syntax highlighting for zsh
 EAPI=7
 HOMEPAGE=https://github.com/zsh-users/zsh-syntax-highlighting
@@ -9,4 +9,4 @@ RDEPEND=>=app-shells/zsh-4.3.11
 SLOT=0
 SRC_URI=https://github.com/zsh-users/zsh-syntax-highlighting/archive/0.8.0_alpha1-pre-redrawhook.tar.gz -> zsh-syntax-highlighting-0.8.0_alpha1.tar.gz
 _eclasses_=readme.gentoo-r1	c9646d622541c023f5159b86a14e930c
-_md5_=68c77e39d7ad43a4129ae7e9f3f8a737
+_md5_=9abadafb51c464b140876366d83ff42e
