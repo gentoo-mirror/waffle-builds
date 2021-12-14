@@ -1,4 +1,5 @@
 app-laptop/laptop-mode-tools 1.73.1 1.74: Linux kernel laptop_mode user-space utilities
+app-misc/key-mapper 1.2.1: An easy to use tool to change the mapping of your input device buttons.
 app-shells/powerlevel10k 1.12.0 1.13.0 1.15.0: A theme for Zsh. It emphasizes speed, flexibility and out-of-the-box experience.
 app-shells/zsh-autosuggestions 0.7.0 9999: Fish-like autosuggestions for zsh
 app-shells/zsh-history-substring-search 1.0.2 9999: ZSH port of Fish history search (up arrow)
