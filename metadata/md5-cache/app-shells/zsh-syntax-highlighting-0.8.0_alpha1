@@ -8,5 +8,5 @@ LICENSE=BSD
 RDEPEND=>=app-shells/zsh-4.3.11
 SLOT=0
 SRC_URI=https://github.com/zsh-users/zsh-syntax-highlighting/archive/0.8.0_alpha1-pre-redrawhook.tar.gz -> zsh-syntax-highlighting-0.8.0_alpha1.tar.gz
-_eclasses_=readme.gentoo-r1	c9646d622541c023f5159b86a14e930c
+_eclasses_=readme.gentoo-r1	eebd0164fe61f4f7b64a683e83fdceb1
 _md5_=9abadafb51c464b140876366d83ff42e
