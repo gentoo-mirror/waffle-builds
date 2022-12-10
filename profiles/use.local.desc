@@ -62,4 +62,3 @@ media-fonts/nerd-fonts:victormono - Install Nerd-fonts-patched Victor Mono fonts
 sys-kernel/buildkernel:plymouth - Enables support for sys-boot/plymouth in the initramfs (but does not mandate its use).
 sys-kernel/genkernel:cryptsetup - Enable support for Luks disk encryption using sys-fs/cryptsetup
 sys-kernel/genkernel:firmware - Prefer system firmware sys-kernel/linux-firmware over local copy.
-x11-misc/sddm:elogind - Use sys-auth/elogind for session tracking.
