@@ -6,6 +6,7 @@ app-shells/zsh-history-substring-search 1.0.2 9999: ZSH port of Fish history sea
 app-shells/zsh-syntax-highlighting 0.7.1 0.8.0_alpha1 9999: Fish shell-like syntax highlighting for zsh
 dev-python/proton-client 0.5.1 0.6.1: Proton account login backend
 dev-python/pyright 1.1.304 1.1.306: Static type checker for Python
+dev-util/staruml-bin 5.1.0: A sophisticated software modeler
 games-emulation/desmume 9999: Nintendo DS emulator
 games-emulation/melonds 0.9 0.9.2 0.9.3 9999: NintendoDS emulator, sorta. Also 1st quality melon.
 kde-misc/applet-window-appmenu 0.7.1 9999: Plasma 5 applet in order to show window appmenu in your panels
