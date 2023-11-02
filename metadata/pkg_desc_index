@@ -4,7 +4,6 @@ app-shells/powerlevel10k 1.12.0 1.13.0 1.15.0 1.16.1: A theme for Zsh. It emphas
 app-shells/zsh-autosuggestions 0.7.0 9999: Fish-like autosuggestions for zsh
 app-shells/zsh-history-substring-search 1.0.2 9999: ZSH port of Fish history search (up arrow)
 app-shells/zsh-syntax-highlighting 0.7.1 0.8.0_alpha1 9999: Fish shell-like syntax highlighting for zsh
-dev-python/proton-client 0.5.1 0.6.1: Proton account login backend
 dev-python/pyright 1.1.304 1.1.306: Static type checker for Python
 dev-util/staruml-bin 5.1.0 6.0.1: A sophisticated software modeler
 games-emulation/desmume 9999: Nintendo DS emulator
@@ -21,9 +20,7 @@ net-libs/deno 1.14.3 9999: A secure JavaScript and TypeScript runtime.
 net-vpn/ivpn 3.10.23 3.10.23-r1 3.10.23-r2 3.12.0: Official IVPN Desktop app
 net-vpn/ivpn-ui-bin 3.10.23 3.12.0: IVPN Desktop app GUI - binary because of npm and Electron difficulties
 net-vpn/mullvad-vpn 2020.5: The Mullvad VPN client
-net-vpn/protonvpn-cli 3.7.1 3.7.2 3.8.0 3.9.1: Official ProtonVPN Linux app (CLI)
-net-vpn/protonvpn-gui 1.0.1 1.1.1 1.2.0 1.3.0: Official ProtonVPN Linux app
-net-vpn/protonvpn-nm-lib 3.3.1 3.3.2 3.4.1: ProtonVPN NetworkManager library
+net-vpn/proton-vpn-gtk-app 4.1.0: Official ProtonVPN Linux app
 sys-apps/touchegg 2.0.5 2.0.8 2.0.10 2.0.11 2.0.14 9999: Linux multi-touch gesture recognizer
 sys-auth/fprintd 1.90.9 1.92.0 1.94.0 9999: D-Bus service to access fingerprint readers
 sys-auth/libfprint 1.90.7 1.92.1 1.94.1 9999: library to add support for consumer fingerprint readers
