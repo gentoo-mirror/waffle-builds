@@ -1,4 +1,4 @@
-app-misc/input-remapper 1.4.0 1.5.0: An easy to use tool to change the mapping of your input device buttons.
+app-misc/input-remapper 1.4.0 1.5.0 2.0.1: An easy to use tool to change the behaviour of your input devices.
 app-misc/logiops 0.2.3 9999: An unofficial userspace driver for HID++ Logitech devices
 app-shells/powerlevel10k 1.12.0 1.13.0 1.15.0 1.16.1: A theme for Zsh. It emphasizes speed, flexibility and out-of-the-box experience.
 app-shells/zsh-autosuggestions 0.7.0 9999: Fish-like autosuggestions for zsh
