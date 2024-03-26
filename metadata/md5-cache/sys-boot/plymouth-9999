@@ -1,0 +1,15 @@
+BDEPEND=>=dev-vcs/git-1.8.2.1[curl] >=dev-build/meson-1.2.3 app-alternatives/ninja dev-build/meson-format-array virtual/pkgconfig
+DEFINED_PHASES=compile configure install postinst prepare test unpack
+DEPEND=>=media-libs/libpng-1.2.16:= drm? ( x11-libs/libdrm ) gtk? ( dev-libs/glib:2 >=x11-libs/gtk+-3.14:3 x11-libs/cairo ) pango? ( >=x11-libs/pango-1.21 ) freetype? ( media-libs/freetype:2 ) elibc_musl? ( sys-libs/rpmatch-standalone ) app-text/docbook-xsl-stylesheets dev-libs/libxslt virtual/pkgconfig
+DESCRIPTION=Graphical boot animation (splash) and logger
+EAPI=8
+HOMEPAGE=https://cgit.freedesktop.org/plymouth/
+INHERIT=flag-o-matic git-r3 meson readme.gentoo-r1 systemd
+IUSE=debug docs +drm freetype +gtk +pango selinux systemd +udev
+LICENSE=GPL-2
+PROPERTIES=live
+RDEPEND=>=media-libs/libpng-1.2.16:= drm? ( x11-libs/libdrm ) gtk? ( dev-libs/glib:2 >=x11-libs/gtk+-3.14:3 x11-libs/cairo ) pango? ( >=x11-libs/pango-1.21 ) freetype? ( media-libs/freetype:2 ) selinux? ( sec-policy/selinux-plymouthd ) udev? ( virtual/udev ) !<sys-kernel/dracut-0.37-r3
+SLOT=0
+SRC_URI=https://dev.gentoo.org/~aidecoe/distfiles/sys-boot/plymouth/gentoo-logo.png
+_eclasses_=toolchain-funcs	e56c7649b804f051623c8bc1a1c44084	multilib	c19072c3cd7ac5cb21de013f7e9832e0	flag-o-matic	24c947ff5f858625cf0b33c15eed4425	git-r3	86fa1f157b70b9d2ff340c4633b1cf4b	multiprocessing	30ead54fa2e2b5f9cd4e612ffc34d0fe	ninja-utils	2df4e452cea39a9ec8fb543ce059f8d6	python-utils-r1	8904b60325f22500b0c3ad4b68a42448	meson	56446e0ef4b4c9af0e2dd4cdef1a086e	readme.gentoo-r1	204091a2cde6179cd9d3db26d09412d3	systemd	c8b03e8df84486aa991d4396686e8942
+_md5_=f8fd66f559be2657d7d0821a4349dc2b
