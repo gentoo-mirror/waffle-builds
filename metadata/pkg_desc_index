@@ -1,6 +1,6 @@
 app-misc/input-remapper 2.0.1: An easy to use tool to change the behaviour of your input devices.
 app-misc/logiops 0.2.3 9999: An unofficial userspace driver for HID++ Logitech devices
-app-shells/powerlevel10k 1.12.0 1.13.0 1.15.0 1.16.1: A theme for Zsh. It emphasizes speed, flexibility and out-of-the-box experience.
+app-shells/powerlevel10k 1.16.1: A theme for Zsh. It emphasizes speed, flexibility and out-of-the-box experience.
 app-shells/zsh-autosuggestions 0.7.0 9999: Fish-like autosuggestions for zsh
 app-shells/zsh-history-substring-search 1.0.2 9999: ZSH port of Fish history search (up arrow)
 app-shells/zsh-syntax-highlighting 0.7.1 0.8.0_alpha1 9999: Fish shell-like syntax highlighting for zsh
@@ -18,7 +18,6 @@ media-fonts/meslo-nerd 9999: Customized version of Apple's Menlo font, patched b
 media-fonts/nerd-fonts 3.1.1: Iconic font aggregator, and collection
 net-vpn/ivpn 3.10.23 3.10.23-r1 3.10.23-r2 3.12.0 3.13.4: Official IVPN Desktop app
 net-vpn/ivpn-ui-bin 3.10.23 3.12.0 3.13.4: IVPN Desktop app GUI - binary because of npm and Electron difficulties
-net-vpn/mullvad-vpn 2020.5: The Mullvad VPN client
 net-vpn/proton-vpn-gtk-app 4.1.0: Official ProtonVPN Linux app
 sys-apps/touchegg 2.0.5 2.0.8 2.0.10 2.0.11 2.0.14 9999: Linux multi-touch gesture recognizer
 sys-auth/fprintd 1.90.9 1.92.0 1.94.0 9999: D-Bus service to access fingerprint readers
