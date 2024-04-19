@@ -18,7 +18,7 @@ media-fonts/meslo-nerd 9999: Customized version of Apple's Menlo font, patched b
 media-fonts/nerd-fonts 3.1.1 3.2.1: Iconic font aggregator, and collection
 net-vpn/ivpn 3.10.23 3.10.23-r1 3.10.23-r2 3.12.0 3.13.4: Official IVPN Desktop app
 net-vpn/ivpn-ui-bin 3.10.23 3.12.0 3.13.4: IVPN Desktop app GUI - binary because of npm and Electron difficulties
-net-vpn/proton-vpn-gtk-app 4.1.0: Official ProtonVPN Linux app
+net-vpn/proton-vpn-gtk-app 4.3.0: Official ProtonVPN Linux app
 sys-apps/touchegg 2.0.5 2.0.8 2.0.10 2.0.11 2.0.14 9999: Linux multi-touch gesture recognizer
 sys-auth/fprintd 1.90.9 1.92.0 1.94.0 9999: D-Bus service to access fingerprint readers
 sys-auth/libfprint 1.90.7 1.92.1 1.94.1 9999: library to add support for consumer fingerprint readers
