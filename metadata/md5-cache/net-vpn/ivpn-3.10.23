@@ -12,5 +12,5 @@ RDEPEND=sys-libs/glibc sys-process/lsof net-vpn/openvpn net-vpn/wireguard-tools 
 RESTRICT=primaryuri strip
 SLOT=0
 SRC_URI=https://github.com/ivpn/desktop-app/archive/v3.10.23.tar.gz -> ivpn-3.10.23.tar.gz https://github.com/FlyingWaffleDev/gentoo-ivpn-deps/releases/download/ivpn-3.10.23/ivpn-3.10.23-deps.tar.xz
-_eclasses_=multiprocessing	30ead54fa2e2b5f9cd4e612ffc34d0fe	toolchain-funcs	e7e7331166166e7a516d19e264b098c2	multilib	c19072c3cd7ac5cb21de013f7e9832e0	flag-o-matic	e503ea5acc20410237ba33ec3f7c857d	go-env	7eb56e61e641d6db098d57fb37477c44	go-module	83fd3ed1657cfc316c93d6a37018290d	systemd	c8b03e8df84486aa991d4396686e8942
+_eclasses_=multiprocessing	30ead54fa2e2b5f9cd4e612ffc34d0fe	toolchain-funcs	0c713337f7872f1a002cecaaea9bef73	multilib	c19072c3cd7ac5cb21de013f7e9832e0	flag-o-matic	e503ea5acc20410237ba33ec3f7c857d	go-env	7eb56e61e641d6db098d57fb37477c44	go-module	83fd3ed1657cfc316c93d6a37018290d	systemd	c8b03e8df84486aa991d4396686e8942
 _md5_=b1c4f7afd2d302448b83d42d8c4c37bd
