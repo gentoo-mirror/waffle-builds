@@ -25,4 +25,4 @@ sys-kernel/buildkernel 1.0.37 9999: Build secure boot EFI kernel with LUKS, LVM 
 sys-kernel/genkernel 4.1.2-r4 4.2.1-r1 9999 9999-r1: Gentoo automatic kernel building scripts
 sys-kernel/genkernel-next 70-r1: Gentoo automatic kernel building scripts, reloaded
 sys-kernel/kmon 1.5.5: Linux kernel manager and activity monitor
-www-client/floorp-bin 12.2.0 12.2.1 12.3.3: Floorp Browser - A fast, privacy-focused Firefox fork
+www-client/floorp-bin 12.2.0 12.2.1 12.3.3 12.3.5: Floorp Browser - A fast, privacy-focused Firefox fork
